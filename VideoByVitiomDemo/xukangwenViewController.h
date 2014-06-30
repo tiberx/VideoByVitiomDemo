@@ -7,14 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "KKWVideoView.h"
 
-@interface xukangwenViewController : UIViewController<KKWVideoViewDelegate>{//
-
-
-    bool _isFullScreen;
-
-    
-}
+@interface xukangwenViewController : UIViewController
 
 @end
