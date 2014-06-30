@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2
+END
+SDDataCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDDataCache.m
+END
+SDWebDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDWebDataManager.h
+END
+SDNetworkActivityIndicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDNetworkActivityIndicator.h
+END
+SDWebImageCompatibly.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDWebImageCompatibly.h
+END
+SDImageView+SDWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDImageView+SDWebCache.m
+END
+SDWebDataDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDWebDataDownloader.h
+END
+SDWebDataManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDWebDataManager.m
+END
+SDNetworkActivityIndicator.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDNetworkActivityIndicator.m
+END
+SDWebDataDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDWebDataDownloader.m
+END
+SDDataCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDDataCache.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/readme.txt
+END
+SDImageView+SDWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/common/!svn/ver/393/components/AudioPicker/Classes/SDWebData_1.0.2/SDImageView+SDWebCache.h
+END
