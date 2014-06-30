@@ -40,13 +40,13 @@
      
      选择 Build Settings | Linking | Other Linker Flags, 将该选项的 Debug/Release 键都配置为 -ObjC .
      
-     
+     http://media4.cnlive.com:8080/00/00/06/20/mp4/620.mp4
      
      
      */
     
     
-    KKWVideoView *videoView=[[KKWVideoView alloc]initWithFrame:CGRectMake(10, 50, 300, 220) WithPlayUrl:@"rtsp://218.204.223.237:554/live/1/66251FC11353191F/e7ooqwcfbqjoo80j.sdp" withTitle:@"美食天降" withBgImg:nil withShu:false withCache:true withImgUrl:@"http://www.tuicool.com/images/mobile/index.png"];
+    KKWVideoView *videoView=[[KKWVideoView alloc]initWithFrame:CGRectMake(10, 50, 300, 220) WithPlayUrl:@"http://media4.cnlive.com:8080/00/00/06/20/mp4/620.mp4" withTitle:@"美食天降" withBgImg:nil withShu:false withCache:true withImgUrl:@"http://www.tuicool.com/images/mobile/index.png"];
     
 
     
